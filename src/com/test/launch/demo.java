@@ -22,6 +22,7 @@ public class demo {
 		Search.sendKeys("Smart Mobile");
 		String stext=Search.getAttribute("value");
 		System.out.println(stext);
+		System.out.println("OutPut");
 		}
 		
 }
